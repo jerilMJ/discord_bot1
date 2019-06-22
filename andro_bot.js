@@ -2,6 +2,8 @@
  * Uses NodeJS and the discord.js module 
  * This is a bot made for helping members of our discord group. 
  * */
+
+
 const Discord = require('discord.js');
 var fs = require('fs');   // for file-handling of txt files with information
 const { prefix, token, goals, desc } = require('./config.json')  // extracting private info from a json file
