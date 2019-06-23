@@ -1,0 +1,5 @@
+https://www.youtube.com/watch?v=H_oGi8uuDpA
+
+https://kotlinlang.org/docs/reference/
+
+https://www.coursera.org/learn/kotlin-for-java-developers
